@@ -6,7 +6,7 @@ If any element/object is changed by Amazon, script may not work and will need to
 
 
 You will need the following downloads:
-1. <a href="http://selenium-release.storage.googleapis.com/index.html">Selenium Servers jar files: Selenium server and selenium-server-standalone</a>
+1. <a href="http://selenium-release.storage.googleapis.com/index.html target="_blank"">Selenium Servers jar files: Selenium server and selenium-server-standalone</a>
 2. <a href="https://www.eclipse.org/downloads/packages/">Eclipse IDE for Java Developer</a>
   <ul>
   <li> a. Create a new java project </li>
