@@ -23,3 +23,7 @@ You will need the following downloads:
 If you want to use it on another browsers you have to install those Browsers Diver for Selenium
 
 
+# VideoDemo.avi
+There is a videoDemo video file for the demo of this script.
+
+
